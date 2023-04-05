@@ -6,9 +6,9 @@
 - firmware:
     A부터 Z까지, Z부터 A 출력하는 프로그램.
     다음과 같은 핸들러가 있다.
-    1. SIGUSR1: [SIGUSR1]을 출력
-    2. SIGUSR2: 버퍼를 비워준다 (clear 명령과 같은 동작)
-    3. SIGTERM: BYE를 출력하고, 프로그램을 종료한다.
+    * SIGUSR1: [SIGUSR1]을 출력
+    * SIGUSR2: 버퍼를 비워준다 (clear 명령과 같은 동작)
+    * SIGTERM: BYE를 출력하고, 프로그램을 종료한다.
 
 - person:
     person \<pid\> 형태로 사용
