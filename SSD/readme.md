@@ -12,4 +12,4 @@ Little endian 방식이며, LBA의 크기는 4byte
 
 ## 데모 영상
 ![write](./Demo/write.gif)
-![read](./demo/read.gif)
+![read](./emo/read.gif)
