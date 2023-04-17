@@ -2,7 +2,7 @@
 BMP280 센서와 OLED를 활용하여 현재 온도와 시간을 출력하는 시계
 
 ### 데모 영상
-![demo](./demo/demo.mp4)
+![demo](./demo/demo.gif)
 
 ### Code
 ```python
